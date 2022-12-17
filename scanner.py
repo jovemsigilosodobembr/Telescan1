@@ -1,4 +1,5 @@
-import time, sys
+import time 
+import sys
 
 from colorama import init, Fore, Style
 from pyrogram import Client
