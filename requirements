@@ -1,0 +1,8 @@
+echo instalando tqdm 
+
+sleep 5 
+
+cls || clear
+
+pip install tqdm
+
