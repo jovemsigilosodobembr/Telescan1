@@ -6,3 +6,12 @@ cls || clear
 
 pip install tqdm
 
+echo instalando  colorama
+
+pip install colorama
+
+sleep 5
+
+cls || clear
+
+
